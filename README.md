@@ -35,12 +35,18 @@ youtu.be/xJcrPJuem5Q)
 - [Variable Font Rendering in 3D](https://twitter.com/kmkota0/status/1160929260271525888)
 - [Interview with Bianca Berning](https://www.itsnicethat.com/news/dalton-maag-variable-fonts-opinion-graphic-design-100220)
 
-### Color Font Examples
-- [Merit Badge](https://djr.com/merit-badge) by David Jonathan Ross
-- [Rocher Color](https://www.harbortype.com/rocher-color-making-a-variable-color-font/) by Harbortype
-- [Typearture Variable Color Initials](https://www.typearture.com/variable-color-font-initials/) by Typearture
-- [Whirly Birdie](https://whirlybirdie.com/) by Alex Tomlinson and Richard Yee
-- [Anicons](https://typogram.github.io/Anicons/index.html) by Wenting Zhang and Hua Shu
+### References from class demos:
+* Fixed/Fluid design with max-width: [demo sketch](https://editor.p5js.org/kyeah/sketches/my9dD-g98)
+* setting font-size with breakpoints: [demo sketch](https://editor.p5js.org/kyeah/sketches/iEqWTe_7e)
+* flex-grid: [demo sketch](https://editor.p5js.org/kyeah/sketches/C4pUtm9DF)
+* fluid styling with calc : [demo sketch](https://editor.p5js.org/kyeah/sketches/PDgYSpenf)
+* Using a custom font (@font-face): [demo sketch](https://editor.p5js.org/kyeah/sketches/lAbR2rh_V)
+
+### (free) resources for learning HTML and CSS:
+* [http://www.dontfeartheinternet.com](http://www.dontfeartheinternet.com/)
+* [https://internetingishard.com](http://www.dontfeartheinternet.com/)
+
+## Section 2: HTML/CSS Part 2 & Intro to javaScript
 
 ### Inspecting Variable Fonts:
 - https://wakamaifondue.com/
@@ -54,57 +60,58 @@ youtu.be/xJcrPJuem5Q)
 - https://www.axis-praxis.org
 - https://www.fontshare.com/
 
-### Sketch Collection
-- [Part 1](https://editor.p5js.org/kyeah/sketches/5pDxUr4Q-)
-- [Part 2 (inhale/exhale)](https://editor.p5js.org/kyeah/sketches/wDL2Dew9l)
-- [Part 2.5 (hover to reveal)](https://editor.p5js.org/kyeah/sketches/1QyDvw5dq)
-- [Part 3 (individual letter animations)](https://editor.p5js.org/kyeah/sketches/5DhcXolZa)
-- [Extra Part 4 (advanced grid animation)](https://editor.p5js.org/kyeah/sketches/3wWYfAyrK)
+### References:
+* [CSS Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
+* [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Using Google Variable Fonts](https://css-tricks.com/getting-the-most-out-of-variable-fonts-on-google-fonts/)
+* [Focus/Active/Hover CSS](https://bitsofco.de/when-do-the-hover-focus-and-active-pseudo-classes-apply/)
+* [Learn p5.js](https://p5js.org/learn/)
 
-## Section 2: Exporting Variable Fonts and JS
 
-- Exporting Variable Fonts with Glyphs (45min)
-- Programming Refresher + Interpolating with Your Variable Font in JS (45min)
-- Variable Fonts on the Web with JS - Assorted Techniques
+### Demo Sketch Collection
 
-### Sketch Collection
+* [Part 1](https://editor.p5js.org/kyeah/sketches/5pDxUr4Q-)
+* [Part 2 (inhale/exhale)](https://editor.p5js.org/kyeah/sketches/wDL2Dew9l)
+* [Part 2.5 (hover to reveal)](https://editor.p5js.org/kyeah/sketches/1QyDvw5dq)
+* [Part 3 (individual letter animations)](https://editor.p5js.org/kyeah/sketches/5DhcXolZa)
 
-- [Base Sketch](https://editor.p5js.org/kyeah/sketches/Kzb02Xkva)
-- [Interpolating Your Font](https://editor.p5js.org/kyeah/sketches/QXV9e6QK_)
-- [Interpolation in 2D](https://editor.p5js.org/kyeah/sketches/b9h7IYIDS)
-- [Randomly Adding Text Over Time](https://editor.p5js.org/kyeah/sketches/bYUIsmulg)
-- [Creating Input Sliders](https://editor.p5js.org/kyeah/sketches/p_iwM7r7v)
-- [Mapping Mouse Position to Variable Axes](https://editor.p5js.org/kyeah/sketches/K3Ea1iOAX)
-- [Randomly Changing Text](https://editor.p5js.org/kyeah/sketches/W8skHZPFb)
+### Suggested Resources for Learning
 
-### Animations
+**Coding Train:**
 
-- [Sine and frameCount](https://editor.p5js.org/kyeah/sketches/l5rmfvKNf)
-- [Timing with p5.func](https://editor.p5js.org/kyeah/sketches/_d1Akpcce)
-  - [p5.func library](https://idmnyu.github.io/p5.js-func/)
-- [Moving towards a target weight](https://editor.p5js.org/kyeah/sketches/P199BSZWe)
-- [Moving each letter towards a target weight (very advanced)](https://editor.p5js.org/kyeah/sketches/K8yw9tq-f)
+* [Errors and Console (Coding Train)](https://www.youtube.com/watch?v=LuGsp5KeJMM)
+* [Code Comments (Coding Train)](https://www.youtube.com/watch?v=xJcrPJuem5Q)
+* [Variables in p5.js (Coding Train)](https://www.youtube.com/watch?v=RnS0YNuLfQQ&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+* [Variables pt 2 (Coding Train)](https://www.youtube.com/watch?v=Bn_B3T_Vbxs)
+* [While / For Loops (Advanced, Coding Train)](https://www.youtube.com/watch?v=cnRD9o6odjk&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=19)
 
-#### Splitting Text
+**Allison Parrish:**
 
-- [Splitting.js](https://splitting.js.org/)
-- [Weight based on character](https://editor.p5js.org/kyeah/sketches/cw9J984Xb)
-- [Letter-based Mouse Distance](https://editor.p5js.org/kyeah/sketches/BK_w1fVeF)
-- [Reacting to Mic Sound](https://editor.p5js.org/kyeah/sketches/YmIRbifY4)
-- [Reacting to Mic Sound - FFT](https://editor.p5js.org/kyeah/sketches/il95px5wt)
+* [First Steps in p5.js (Allison Parrish)](https://creative-coding.decontextualize.com/first-steps/)
+* [Expressions, Variables, Loops (Allison Parrish)](https://creative-coding.decontextualize.com/expressions-variables-and-loops/)
 
-#### Responsive Text on the Web
- 
-- [Responsive I (textbox size)](https://editor.p5js.org/kyeah/sketches/K4zOwPxvu)
-  - [Using native Javascript (no p5.js)](https://editor.p5js.org/kyeah/sketches/zJz_BDHyW)
-- [Responsive II (window size)](https://editor.p5js.org/kyeah/sketches/RvQoj8Dmn)
-  - [Using native Javascript (no p5.js)](https://editor.p5js.org/kyeah/sketches/MYP3U6LU1)
-- [Responsive III (resizable div)](https://editor.p5js.org/kyeah/sketches/zy9C-DrFG)
-- [Responsive IV (scrolling)](https://editor.p5js.org/kyeah/sketches/1jj1iu3RF)
-  - For more complex behavior: [ScrollTrigger](https://greensock.com/scrolltrigger/)
 
-#### Building a Variable Font Tester
+## Section 3: JavaScript and Variable Fonts
 
-- [Loading Variable Fonts in CSS](https://editor.p5js.org/kyeah/sketches/VD_0UNhh9)
-- [Reading Variable Font Axes Data with variablefont.js](https://editor.p5js.org/kyeah/sketches/OXBVR2lA1)
-  - Alternative: [samsa-core.js](https://github.com/Lorp/samsa/blob/master/docs/samsa-core.md)
+### Further resources for Glyphs
+
+* [Glyphs App Website](https://glyphsapp.com/)
+* [Variable Fonts Tutorial](https://glyphsapp.com/learn/creating-a-variable-font)
+
+### Demo Sketch Collection:
+
+* [Ball movement exercise 1](https://editor.p5js.org/kyeah/sketches/8jXTfynCV)
+* [Ball movement exercise 2 (bouncing)](https://editor.p5js.org/kyeah/sketches/u568k3-SX)
+* [Updating wght with JS](https://editor.p5js.org/kyeah/sketches/hA82_0UBQ)
+* [Updating wght with slider](https://editor.p5js.org/kyeah/sketches/2QJfOIY_e)
+* [Updating multiple elements with for loop](https://editor.p5js.org/kyeah/sketches/wGRC3TC3E)
+
+### Suggested Video Tutorial
+
+* [Coding Train: While / For loops](https://www.youtube.com/watch?v=cnRD9o6odjk)
+
+## Section 4: JavaScript and Variable Fonts Part 2
+
+### Demo Sketch Collection
+
+* [mouse location variables, map() and sound](https://editor.p5js.org/lynneyun/sketches/whakhK1U-)
