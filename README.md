@@ -115,3 +115,21 @@ youtu.be/xJcrPJuem5Q)
 ### Demo Sketch Collection
 
 * [mouse location variables, map() and sound](https://editor.p5js.org/lynneyun/sketches/whakhK1U-)
+* [variable weights using mouseX & windowWidth](https://editor.p5js.org/kyeah/sketches/LvfUN4HRR)
+* [variable weights using sound](https://editor.p5js.org/kyeah/sketches/XHoZu2MFQ)
+* [time-based sine animation](https://editor.p5js.org/kyeah/sketches/rsOlvKq6L)
+* [splitting characters + time offsets](https://editor.p5js.org/kyeah/sketches/-qqnHz7_L)
+
+### Advanced Examples Shown
+
+- [Reacting to Mic Sound - FFT](https://editor.p5js.org/kyeah/sketches/il95px5wt)
+
+#### Responsive Text on the Web
+ 
+- [Responsive I (textbox size)](https://editor.p5js.org/kyeah/sketches/K4zOwPxvu)
+  - [Using native Javascript (no p5.js)](https://editor.p5js.org/kyeah/sketches/zJz_BDHyW)
+- [Responsive II (window size)](https://editor.p5js.org/kyeah/sketches/RvQoj8Dmn)
+  - [Using native Javascript (no p5.js)](https://editor.p5js.org/kyeah/sketches/MYP3U6LU1)
+- [Responsive III (resizable div)](https://editor.p5js.org/kyeah/sketches/zy9C-DrFG)
+- [Responsive IV (scrolling)](https://editor.p5js.org/kyeah/sketches/1jj1iu3RF)
+  - For more complex behavior see: [ScrollTrigger](https://greensock.com/scrolltrigger/)
