@@ -15,7 +15,7 @@ Variable fonts have been a topic of growing curiosity in the type world — but 
 Over four evenings (August 18, 19, 25 & 26), this beginner-friendly course will cover the fundamentals of programming using both HTML+CSS web basics and P5.js, a beginner-friendly Javascript framework. We’ll explore how to utilize these tools with variable fonts to create interesting digital experiences, opening new doors and finding fresh avenues for experimentation … and fun!
 
 Techniques covered in this course will include introductory HTML, CSS, and Javascript concepts, and how they can be applied to time and interaction-based CSS manipulation and animation on the web using variable font features.
-youtu.be/xJcrPJuem5Q)
+
 
 ## Topic Sections
 
